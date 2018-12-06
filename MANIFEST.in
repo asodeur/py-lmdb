@@ -5,3 +5,4 @@ include ChangeLog
 include LICENSE
 prune docs/_build
 prune lmdb/__pycache__
+exclude .*
